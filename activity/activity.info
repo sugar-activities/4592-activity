@@ -1,0 +1,8 @@
+[Activity]
+name = pygihack
+license = GPLv3+
+activity_version = 1
+show_launcher = yes
+icon = pygi-hack
+exec = sugar-activity pygihack.pygihack
+bundle_id = org.laptop.pygihack
